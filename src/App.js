@@ -31,7 +31,7 @@ class App extends Component {
   render() {
     return (
       <div className="container-fluid my-5">
-        <div className="row">
+        <div className="row bgColor">
           <div className="col-sm-6 mx-auto text-white shadow-lg p-3 ">
             <h2 className="text-center"> Today's Plan </h2>
             <div className="container-fluid">
