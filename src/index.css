@@ -1,12 +1,6 @@
-html {
-
+html, body, bgColor {
   background-color: rgb(31, 161, 90);  
 }
-container-fluid{
-  background-color: darkslategrey;
-}
-
-
 
 input[type="text"]{
   background:transparent;
